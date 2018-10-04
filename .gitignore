@@ -1,5 +1,15 @@
 .DS_Store
 
+venv/
+credentials/
+.env
+
+
+# Mac OS X
+*.DS_Store
+
+# Generated .pyc files
+*.pyc
 
 #Sublime Text
 *.sublime-project
