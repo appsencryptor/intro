@@ -3,5 +3,5 @@
 https://appsencrypt.github.io/intro/
 
 
-A better way to manage the Let's Encrypt certificates of your Paas Applications
+A better way to manage the Let's Encrypt certificates of your Paas Applications.
 
