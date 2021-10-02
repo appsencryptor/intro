@@ -1,4 +1,4 @@
-# AppsEncrypt intro
+# AppsEncrypt introduction
 
 https://appsencrypt.github.io/intro/
 
